@@ -1,7 +1,4 @@
-# viis_iot_application
-
-A new Flutter project.
-
+# flutter_iot_application
 ## Getting Started
 
 This project is a starting point for a Flutter application.
